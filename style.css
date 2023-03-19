@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+}
+
+main a {
+    color: black;
+    margin-left: 170px;
+}
+
+h1 {
+    margin-left: 400px;
+}
+
+main img {
+    border-left: 5px dotted black;
+    margin-left: 90px;
+    text-align: center;
+}
+
+main p {
+    border: 1px solid black;
+    border-radius: 25px;
+    padding: 10px;
+}
+
+footer{
+    background-color: black;
+    padding: 1px;
+}
+
+footer p {
+    background-color: white;
+}
